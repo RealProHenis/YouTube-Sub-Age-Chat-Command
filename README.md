@@ -7,7 +7,7 @@ A command for YouTube streamers (who use Streamlabs Chatbot) that allows viewers
 1. Download ZIP (click the "Code" drop down, and then click "Download ZIP")
 2. Open StreamLabs Chatbot, go to Scripts, click the Import button in the upper right, and choose the ZIP file you just downloaded
     - Also, you can install the script manually by extracting the ZIP file to %AppData%\Roaming\Streamlabs\Streamlabs Chatbot\Services\Scripts
-3. Click on the script and you should see a sidebar appear on the right
+3. Click on the script in Streamlabs Chatbot and you should see the script settings appear
     - Here you can change the trigger command, permission level, user cooldown, and time format of the command response
 5. Get your YouTube channel ID from here: https://commentpicker.com/youtube-channel-id.php and enter it into the Streamer Channel ID field of the script settings in Streamlabs Chatbot
 6. Get a YouTube API Key from here: https://console.cloud.google.com/
