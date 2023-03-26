@@ -20,4 +20,6 @@ A command for YouTube streamers (who use Streamlabs Chatbot) that allows viewers
     - Click the "Credentials" tab on the sidebar (under APIs & Services)
     - Click "Create Credentials" at the top, then click "API key"
     - Once your API Key is created, copy it and enter it into the YouTube API Key field of the YouTube Sub Age script settings in Streamlabs Chatbot
-7. You're all set! Make sure the command is enabled
+7. Choose a time format to display the user's subscription date/time
+    - If you want to use a different time format, submit an issue on this GitHub and I'll update when I can
+8. You're all set! Make sure the command is enabled
