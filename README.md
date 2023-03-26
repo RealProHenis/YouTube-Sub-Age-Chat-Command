@@ -5,6 +5,7 @@ A command for YouTube streamers (who use Streamlabs Chatbot) that allows viewers
 ## Streamer Requirements
 
 Must have Python 2.7.13 installed on the same computer that's running Streamlabs Chatbot and have the correct directory set in Streamlabs Chatbot Script Settings 
+
 Learn more: https://streamlabs.com/content-hub/post/chatbot-scripts-desktop
 
 ## Viewer Requirements
