@@ -4,7 +4,7 @@ A command for YouTube streamers (who use Streamlabs Chatbot) that allows viewers
 
 ## How To Setup & Use
 
-1. Download ZIP
+1. Download ZIP (click the "Code" drop down, and then click "Download ZIP")
 2. Open StreamLabs Chatbot, go to Scripts, click the Import button in the upper right, and choose the ZIP file you just downloaded
     - You can install the script manually by extracting the ZIP file to %AppData%\Roaming\Streamlabs\Streamlabs Chatbot\Services\Scripts
 3. Click on the script and you should see a sidebar appear on the right
