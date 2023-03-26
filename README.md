@@ -17,8 +17,8 @@ A command for YouTube streamers (who use Streamlabs Chatbot) that allows viewers
     - On the left sidebar, hover over "APIs & Services", then click "Enabled APIs & Services"
     - Click "Enable APIs & Services"
     - Search "youtube" and click "YouTube Data API v3"
-    - Click "Enable" and wait for it to be enabled
-    - Click the "Credentials" tab on the sidebar (under APIs & Services)
+    - Click "Enable" and wait for the API to be enabled
+    - Click the "Credentials" tab on the left sidebar (under APIs & Services)
     - Click "Create Credentials" at the top, then click "API key"
     - Once your API Key is created, copy it and enter it into the YouTube API Key field of the YouTube Sub Age script settings in Streamlabs Chatbot
 7. Choose a time format to display the user's subscription date/time
