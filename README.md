@@ -10,7 +10,7 @@ A command for YouTube streamers (who use Streamlabs Chatbot) that allows viewers
 3. Click on the script in Streamlabs Chatbot and you should see the script settings appear
     - Here you can change the trigger command, permission level, user cooldown, and time format of the command response
 5. Get your YouTube channel ID from here: https://commentpicker.com/youtube-channel-id.php and enter it into the Streamer Channel ID field of the script settings in Streamlabs Chatbot
-6. Get a YouTube API Key from here: https://console.cloud.google.com/
+6. Get a YouTube API Key from here: https://console.cloud.google.com/ (a YouTube Data v3 API Key is required to check a user's subscription status)
     - Click "Select a project" dropdown in the upper left, then click "New Project" (call it whatever you want)
     - Wait for project to be created, then click "Select Project"
     - On the left sidebar, hover over "APIs & Services", then click "Enabled APIs & Services"
