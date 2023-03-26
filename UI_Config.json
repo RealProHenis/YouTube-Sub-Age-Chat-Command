@@ -1,0 +1,44 @@
+{
+  "output_file": "settings.json",
+  "Command": {
+    "type": "textbox",
+    "value": "!subage",
+    "label": "Command",
+    "tooltip": "The command to trigger YouTube Sub Age"
+  },
+  "Permission": {
+    "type": "dropdown",
+    "value": "everyone",
+    "items": [ "everyone", "regular", "sponsor", "moderator", "editor" ],
+    "label": "Permission",
+    "tooltip": "Set who is able to use the command"
+  },
+  "userCooldown": {
+    "type": "slider",
+    "value": 30,
+    "min": 0,
+    "max": 120,
+    "ticks": 1,
+    "label": "User Cooldown (seconds)",
+    "tooltip": "The amount of seconds that must pass before a user can execute the command again"
+  },
+  "streamerChannelID": {
+    "type": "textbox",
+    "value": "",
+    "label": "Streamer Channel ID",
+    "tooltip": "The YouTube streamer's channel ID"
+  },
+  "youtubeAPIKey": {
+    "type": "textbox",
+    "value": "",
+    "label": "YouTube API Key",
+    "tooltip": "A YouTube Data v3 API Key is required to check a user's subscription status"
+  },
+  "timeFormat": {
+    "type": "dropdown",
+    "value": "",
+    "items": [ "Name of Month-Day-Year", "Name of Month-Day-Year 12hr Clock", "Name of Month-Day-Year 12hr Clock w/ Seconds", "Name of Month-Day-Year 24hr Clock", "Name of Month-Day-Year 24hr Clock w/ Seconds", "Month-Day-Year", "Month-Day-Year 12hr Clock", "Month-Day-Year 12hr Clock w/ Seconds", "Month-Day-Year 24hr Clock", "Month-Day-Year 24hr Clock w/ Seconds", "Day-Month-Year", "Day-Month-Year 12hr Clock", "Day-Month-Year 12hr Clock w/ Seconds", "Day-Month-Year 24hr Clock", "Day-Month-Year 24hr Clock w/ Seconds" ],
+    "label": "Time Format",
+    "tooltip": "The time format displayed when showing the time a user subscribed"
+  }
+}
