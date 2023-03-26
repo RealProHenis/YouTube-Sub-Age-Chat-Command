@@ -26,3 +26,13 @@ A command for YouTube streamers (who use Streamlabs Chatbot) that allows viewers
 8. Click "Save Settings" at the bottom of the script settings
 9. Make sure the command is enabled!
 10. You're all set!
+
+## Note
+
+Viewers MUST have their YouTube subscription privacy settings set public. They can do this by following these steps:
+
+1. Sign in to YouTube on a computer
+2. In the top right, click your profile picture
+3. Click Settings 
+4. In the left Menu, select Privacy
+5. Turn off "Keep all my subscriptions private"
