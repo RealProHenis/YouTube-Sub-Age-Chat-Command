@@ -2,7 +2,7 @@
 
 A command for YouTube streamers (who use Streamlabs Chatbot) that allows viewers to type !subage in chat and see the date/time they subscribed to your channel!
 
-## How To Setup & Use
+## How To Use
 
 1. Download ZIP (click the "Code" drop down, and then click "Download ZIP")
 2. Open StreamLabs Chatbot, go to Scripts, click the Import button in the upper right, and choose the ZIP file you just downloaded
