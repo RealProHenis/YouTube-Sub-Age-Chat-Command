@@ -10,7 +10,7 @@ Learn more: https://streamlabs.com/content-hub/post/chatbot-scripts-desktop
 
 ## Viewer Requirements
 
-Viewers MUST have their YouTube subscription privacy settings set public. They can do this by following these steps:
+Viewers MUST have their YouTube subscription privacy settings set public in order for Streamlabs Chatbot to retrieve their subscription date. They can do this by following these steps:
 1. Sign in to YouTube on a computer
 2. In the top right, click your profile picture
 3. Click Settings 
