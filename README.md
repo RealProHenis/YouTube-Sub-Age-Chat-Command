@@ -17,7 +17,7 @@ Viewers MUST have their YouTube subscription privacy settings set public in orde
 4. In the left Menu, select Privacy
 5. Turn off "Keep all my subscriptions private"
 
-## How To Use
+## How To Setup
 
 1. Download ZIP (click the "Code" drop down, and then click "Download ZIP")
 2. Open StreamLabs Chatbot, go to Scripts, click the Import button in the upper right, and choose the ZIP file you just downloaded
