@@ -1,6 +1,6 @@
 # YouTube Sub Age Command (Streamlabs Chatbot Script)
 
-A chat command for YouTube streamers (who use Streamlabs Chatbot) that allows viewers to type !subage in live chat, and get a return message with the date & time they subscribed to the streamer's channel!
+A chat command for YouTube streamers (who use Streamlabs Chatbot) that allows viewers to type !subage in live chat, and get a return message with the date & time they subscribed to the streamer's channel
 
 ## Streamer Requirements
 
