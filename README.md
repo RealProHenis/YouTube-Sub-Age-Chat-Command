@@ -27,8 +27,8 @@ Viewers MUST have their YouTube subscription privacy settings set public in orde
 5. Get your YouTube channel ID from here: https://commentpicker.com/youtube-channel-id.php and enter it into the Streamer Channel ID field of the script settings in Streamlabs Chatbot
 6. Get a YouTube API Key: (a YouTube Data v3 API Key is required to check a user's subscription status)
     - Go to https://console.cloud.google.com
-    - Click "Select a project" dropdown in the upper left, then click "New Project" (call it whatever you want)
-    - Wait for project to be created, then click "Select Project"
+    - Click "Select a project" dropdown in the upper left, then click "New Project" (name the project whatever you want)
+    - Wait for the project to be created, then click "Select Project"
     - On the left sidebar, hover over "APIs & Services", then click "Enabled APIs & Services"
     - Click "Enable APIs & Services"
     - Search "youtube" and click "YouTube Data API v3"
