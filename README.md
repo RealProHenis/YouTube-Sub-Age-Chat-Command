@@ -20,7 +20,7 @@ Viewers MUST have their YouTube subscription privacy settings set public in orde
 ## How To Setup
 
 1. Download ZIP (click the "Code" drop down, and then click "Download ZIP")
-2. Open StreamLabs Chatbot, go to Scripts, click the Import button in the upper right, and choose the ZIP file you just downloaded
+2. Open StreamLabs Chatbot, go to the Scripts tab, click the Import button in the upper right, and choose the ZIP file you just downloaded
     - You can also install the script manually by extracting the ZIP file to %AppData%\Roaming\Streamlabs\Streamlabs Chatbot\Services\Scripts
 3. Once the script has successfully loaded, click on the script in Streamlabs Chatbot and you should see the script settings appear
     - Here you can change the trigger command, permission level, user cooldown, and time format of the command response
